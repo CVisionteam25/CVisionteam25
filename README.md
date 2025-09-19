@@ -23,7 +23,7 @@ By combining modern technology with user-centered design, it bridges the gap bet
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
 | Ahmed Maher | AI Developer | [@AhmedMaherAbdRabbo](https://github.com/AhmedMaherAbdRabbo) | [LinkedIn](https://www.linkedin.com/in/ahmed-maherr/) |
-| Member 2 | Backend Developer | [GitHub](#) | [LinkedIn](#) |
+| Abdalla Mohamed | AI Developer | [@abdallamohamedmahrous](https://github.com/abdallamohamedmahrous) | [LinkedIn](https://www.linkedin.com/in/abdalla-mohamed-0193662b1/) |
 | Member 3 | Frontend Developer | [GitHub](#) | [LinkedIn](#) |
 | Member 4 | Data Scientist | [GitHub](#) | [LinkedIn](#) |
 | Member 5 | Computer Vision Engineer | [GitHub](#) | [LinkedIn](#) |
