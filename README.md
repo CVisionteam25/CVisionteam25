@@ -24,7 +24,7 @@ By combining modern technology with user-centered design, it bridges the gap bet
 |------|------|--------|----------|
 | Ahmed Maher | AI Developer | [@AhmedMaherAbdRabbo](https://github.com/AhmedMaherAbdRabbo) | [LinkedIn](https://www.linkedin.com/in/ahmed-maherr/) |
 | Abdalla Mohamed | AI Developer | [@abdallamohamedmahrous](https://github.com/abdallamohamedmahrous) | [LinkedIn](https://www.linkedin.com/in/abdalla-mohamed-0193662b1/) |
-| Aya Eid | Frontend Developer | [@AyaEidMahrous](https://github.com/AyaEidMahrous) | [LinkedIn](#https://www.linkedin.com/in/aya-e-mahrous?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+| Aya Eid | Frontend Developer | [@AyaEidMahrous](https://github.com/AyaEidMahrous) | [LinkedIn](https://www.linkedin.com/in/aya-e-mahrous?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | Member 4 | Data Scientist | [GitHub](#) | [LinkedIn](#) |
 | Member 5 | Computer Vision Engineer | [GitHub](#) | [LinkedIn](#) |
 | Member 6 | NLP Researcher | [GitHub](#) | [LinkedIn](#) |
