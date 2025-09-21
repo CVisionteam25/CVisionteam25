@@ -27,9 +27,10 @@ By combining modern technology with user-centered design, it bridges the gap bet
 | Aya Eid | Frontend Developer | [@AyaEidMahrous](https://github.com/AyaEidMahrous) | [LinkedIn](https://www.linkedin.com/in/aya-e-mahrous?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | Yasmeen Asaad | Frontend Developer | [@YasmeenasaadRamdan](https://github.com/YasmeenasaadRamdan) | [LinkedIn](https://www.linkedin.com/in/yasmeen-asaad-923814356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | Omnia Zedan | Frontend Developer | [@Omniazedan](https://github.com/Omniazedan) | [LinkedIn](#) |
+| Shahd Mahmoud | Backend Developer | [@ShahdMahmoud84](https://github.com/ShahdMahmoud84) | [LinkedIn](https://www.linkedin.com/in/shahd-mahmoud-32a773263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | Nadia Hisham | Backend Developer | [GitHub](#) | [LinkedIn](https://www.linkedin.com/in/nadia-hisham00?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | Ahmed Kamel | Backend Developer | [@ahmedkame1](https://github.com/ahmedkame1) | [LinkedIn](https://www.linkedin.com/in/ahmed-kamel-086b65262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
-| Member 8 | Backend Developer | [GitHub](#) | [LinkedIn](#) |
+
 
 
 ---
